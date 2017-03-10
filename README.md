@@ -2,11 +2,11 @@
 Test Driven Development (TDD) and Pair Programming challenge.  
   
 ##How it works:  
-The program is passed a number.  
-When passed a number that is a multiple of 3, the program returns the message "fizz".  
-When passed a number that is a multiple of 5, the program returns the message "buzz".  
-When passed a number that is a multiple of 3 and 5, the program returns the message "fizzbuzz".  
-When the number is neither of the above, the number is returned.  
+* The program is passed a number.  
+* When passed a number that is a multiple of 3, the program returns the message "fizz".  
+* When passed a number that is a multiple of 5, the program returns the message "buzz".  
+* When passed a number that is a multiple of 3 and 5, the program returns the message "fizzbuzz".  
+* When the number is neither of the above, the number is returned.  
   
 To run, type in Irb or Pry:  
 
